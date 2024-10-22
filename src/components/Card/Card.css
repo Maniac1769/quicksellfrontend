@@ -46,3 +46,8 @@
 .card_tag {
   gap: 5px;
 }
+@media screen and (max-width: 700px) {
+  .card {
+    min-width: fit-content; /* Ensured fit-content for smaller screens */
+  }
+}
