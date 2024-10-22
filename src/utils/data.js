@@ -1,12 +1,12 @@
-import ThreeDotsIcon from '../icons_FEtask/3 dot menu.svg';
-import InfoSquareIcon from '../icons_FEtask/SVG - Urgent Priority colour.svg';
-import Low from '../icons_FEtask/Img - Low Priority.svg';
-import Medium from '../icons_FEtask/Img - Medium Priority.svg';
-import High from '../icons_FEtask/Img - High Priority.svg';
-import CircleDottedIcon from '../icons_FEtask/Backlog.svg';
-import RegCircleIcon from '../icons_FEtask/To-do.svg';
-import CheckCircleIcon from '../icons_FEtask/Done.svg';
-import CircleXmarkIcon from '../icons_FEtask/Cancelled.svg';
+import ThreeDotsIcon from './icons_FEtask/3 dot menu.svg';
+import InfoSquareIcon from './icons_FEtask/SVG - Urgent Priority colour.svg';
+import Low from './icons_FEtask/Img - Low Priority.svg';
+import Medium from './icons_FEtask/Img - Medium Priority.svg';
+import High from './icons_FEtask/Img - High Priority.svg';
+import CircleDottedIcon from './icons_FEtask/Backlog.svg';
+import RegCircleIcon from './icons_FEtask/To-do.svg';
+import CheckCircleIcon from './icons_FEtask/Done.svg';
+import CircleXmarkIcon from './icons_FEtask/Cancelled.svg';
 import { RxHalf2 } from "react-icons/rx";
 const bgColors = ["#B57136", "#868728", "#4D9446", "#5F80E4"];
 
